@@ -84,3 +84,5 @@ The active workflow is intentionally vulnerable, but execution requires a fork o
 ## Attribution
 
 The incident narrative is based on the Nx security advisory, postmortem, and the other references listed in [`nx_s1ngularity.md`](nx_s1ngularity.md). This lab is a teaching aid, not an official Nx artifact.
+
+## CHANGE THIS
